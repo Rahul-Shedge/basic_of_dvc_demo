@@ -1,4 +1,4 @@
-# System commands for this project:```
+# System commands for this project:
 
 ``` bash
 conda create -n basic_demo python=3.7 -y
@@ -60,6 +60,7 @@ git remote add testorigin https://github.com/Rahul-Shedge/basic_of_dvc_demo.git
 ``` bash
 git push testorigin master
 ```
+TO list the branches in the folder
 
 ``` bash
 git branch -a
